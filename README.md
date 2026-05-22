@@ -23,6 +23,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 
 If you want to test fit before a larger project, I can start with a narrow paid slice:
 
+- $75 small cleanup or writing slice: I clean one small file, structure one short document, or rewrite one resume/LinkedIn/founder-bio section with a handoff note.
 - $95 diagnostic: I review one file, workflow, repo, spreadsheet, form, or business-plan draft and return the main fixes, risk points, and next paid milestone.
 - $150-$175 one-step repair: I fix one concrete issue such as a broken form handoff, spreadsheet formula/report problem, webhook/API mapping, README gap, or small website bug.
 - $250-$300 first deliverable: I produce a usable first artifact such as a short business-plan section, model cleanup pass, workflow handoff map, dashboard-ready data cleanup, landing-page fix, or repo readiness pass.
