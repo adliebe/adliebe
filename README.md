@@ -33,6 +33,8 @@ GitHub issue and CI fix proof: https://adliebe.github.io/scoped-ops-proof/tutori
 
 Outlook quote proof: https://adliebe.github.io/scoped-ops-proof/tutorials/outlook-product-inquiry-to-quote.html
 
+Meeting notes to Planner proof: https://adliebe.github.io/scoped-ops-proof/tutorials/meeting-notes-planner-handoff.html
+
 Webhook to quote proof: https://adliebe.github.io/scoped-ops-proof/tutorials/monday-webhook-email-to-quote.html
 
 Fraud decision review proof: https://adliebe.github.io/scoped-ops-proof/fraud-decision-triage.html
