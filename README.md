@@ -14,7 +14,6 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 - 48-hour landing page and contact form: https://www.freelancer.com/service/website_design/hour-landing-page-and-contact-form?sb=t
 - 24-hour business plan or forecast review: https://www.freelancer.com/service/business_plans/hour-business-plan-or-forecast-review?sb=t
 - 48-hour workflow build or repair: https://www.freelancer.com/service/zapier/hour-workflow-build-or-repair?sb=t
-- n8n workflow repair and handoff notes: https://www.upwork.com/services/product/development-it-an-n8n-workflow-repair-with-tested-handoff-notes-2057889259942910023
 - Business plan and financial model: https://www.upwork.com/services/product/consulting-hr-an-investor-ready-business-plan-and-financial-model-with-forecasts-2057624369756503073
 - Spreadsheet cleanup and weekly KPI report: https://www.upwork.com/services/product/marketing-a-cleaned-lead-list-with-a-weekly-sales-report-2057587050076830753
 
@@ -42,7 +41,6 @@ If you want to test fit before a larger project, I can start with a narrow paid 
 - $95 form dashboard handoff: I fix one form, sheet, calendar, alert, dashboard, or Monday.com handoff path through Freelancer escrow.
 - $95 24-hour repair: I fix or diagnose one clean workflow, spreadsheet, report, form, data handoff, or business-plan/model slice through Freelancer escrow.
 - $40-$99 Upwork spreadsheet starts: I clean one buyer-provided spreadsheet and return a usable file or KPI-ready report shape.
-- $150 Upwork n8n repair start: I diagnose or repair one scoped workflow path with tested handoff notes.
 - $150-$175 one-step repair: I fix one concrete issue such as a broken form handoff, spreadsheet formula/report problem, webhook/API mapping, or small website bug.
 - $250 48-hour landing page and contact form: I build one responsive page, one contact/intake form, a thank-you state, and handoff notes through Freelancer escrow.
 - $250-$300 first deliverable: I produce a usable first artifact such as a short business-plan section, model cleanup pass, workflow handoff map, dashboard-ready data cleanup, landing-page fix, or repo readiness pass.
