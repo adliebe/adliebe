@@ -6,6 +6,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 
 - Proof hub: https://adliebe.github.io/scoped-ops-proof/
 - Direct buyer-approved checkout links: https://adliebe.github.io/scoped-ops-proof/#payment-routing
+- 24-hour GitHub issue or CI fix review: https://www.freelancer.com/service/github/hour-github-issue-or-ci-fix-review?sb=t
 - 24-hour spreadsheet cleanup and KPI report: https://www.freelancer.com/service/excel/hour-spreadsheet-cleanup-and-kpi-report?sb=t
 - 24-hour workflow or report repair: https://www.freelancer.com/service/excel_vba/hour-workflow-or-report-repair?sb=t
 - 48-hour landing page and contact form: https://www.freelancer.com/service/website_design/hour-landing-page-and-contact-form?sb=t
@@ -30,6 +31,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 If you want to test fit before a larger project, I can start with a narrow paid slice:
 
 - $75 24-hour spreadsheet cleanup: I clean one CSV, Excel, Sheets, lead-list, order, invoice, or weekly KPI report file through Freelancer escrow.
+- $25 GitHub issue or CI review: I inspect one public or buyer-authorized repo issue, failing check, dependency blocker, install error, README gap, or tiny fix path through Freelancer escrow.
 - $95 24-hour repair: I fix or diagnose one clean workflow, spreadsheet, report, form, data handoff, or business-plan/model slice through Freelancer escrow.
 - $40-$99 Upwork spreadsheet starts: I clean one buyer-provided spreadsheet and return a usable file or KPI-ready report shape.
 - $150 Upwork n8n repair start: I diagnose or repair one scoped workflow path with tested handoff notes.
