@@ -28,9 +28,11 @@ If you want to test fit before a larger project, I can start with a narrow paid 
 - $150-$175 one-step repair: I fix one concrete issue such as a broken form handoff, spreadsheet formula/report problem, webhook/API mapping, README gap, or small website bug.
 - $250-$300 first deliverable: I produce a usable first artifact such as a short business-plan section, model cleanup pass, workflow handoff map, dashboard-ready data cleanup, landing-page fix, or repo readiness pass.
 
-Starter slice details: https://adliebe.github.io/scoped-ops-proof/?v=8227cb2#starter-slices
+Starter slice details: https://adliebe.github.io/scoped-ops-proof/?v=115e5fd#starter-slices
 
 ## Premium Project Starts
+
+These are package anchors, not a universal minimum:
 
 - Business plan and model review: $500+
 - Full business plan and financial model: $1,500-$3,500+
