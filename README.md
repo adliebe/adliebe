@@ -26,7 +26,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 - Python, JavaScript, API, backend, database, and integration repair for small teams.
 - Small business websites, landing pages, intake forms, MVP slices, and operational tools.
 - GitHub repo repair, CI fixes, dependency updates, technical docs, and product-readiness cleanup.
-- Cybersecurity, workflow governance, prompt-injection review, and tool-boundary checks for scoped systems.
+- Cybersecurity, workflow governance, untrusted-input review, and tool-boundary checks for scoped systems.
 
 Form to dashboard proof: https://adliebe.github.io/scoped-ops-proof/tutorials/google-forms-drive-calendar-dashboard.html
 
