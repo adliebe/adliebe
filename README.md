@@ -5,6 +5,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 ## Paid Work Surfaces
 
 - Proof hub: https://adliebe.github.io/scoped-ops-proof/
+- 24-hour workflow or report repair: https://www.freelancer.com/service/excel_vba/hour-workflow-or-report-repair?sb=t
 - n8n workflow repair and handoff notes: https://www.upwork.com/services/product/development-it-an-n8n-workflow-repair-with-tested-handoff-notes-2057889259942910023
 - Business plan and financial model: https://www.upwork.com/services/product/consulting-hr-an-investor-ready-business-plan-and-financial-model-with-forecasts-2057624369756503073
 - Spreadsheet cleanup and weekly KPI report: https://www.upwork.com/services/product/marketing-a-cleaned-lead-list-with-a-weekly-sales-report-2057587050076830753
@@ -24,7 +25,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 If you want to test fit before a larger project, I can start with a narrow paid slice:
 
 - $75 small cleanup or writing slice: I clean one small file, structure one short document, or rewrite one resume/LinkedIn/founder-bio section with a handoff note.
-- $95 diagnostic: I review one file, workflow, repo, spreadsheet, form, or business-plan draft and return the main fixes, risk points, and next paid milestone.
+- $95 24-hour repair: I fix or diagnose one clean workflow, spreadsheet, report, form, data handoff, or business-plan/model slice through Freelancer escrow.
 - $150-$175 one-step repair: I fix one concrete issue such as a broken form handoff, spreadsheet formula/report problem, webhook/API mapping, README gap, or small website bug.
 - $250-$300 first deliverable: I produce a usable first artifact such as a short business-plan section, model cleanup pass, workflow handoff map, dashboard-ready data cleanup, landing-page fix, or repo readiness pass.
 
