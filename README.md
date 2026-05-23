@@ -8,6 +8,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 - Direct buyer-approved checkout links: https://adliebe.github.io/scoped-ops-proof/#payment-routing
 - 24-hour spreadsheet cleanup and KPI report: https://www.freelancer.com/service/excel/hour-spreadsheet-cleanup-and-kpi-report?sb=t
 - 24-hour workflow or report repair: https://www.freelancer.com/service/excel_vba/hour-workflow-or-report-repair?sb=t
+- 48-hour landing page and contact form: https://www.freelancer.com/service/website_design/hour-landing-page-and-contact-form?sb=t
 - 24-hour business plan or forecast review: https://www.freelancer.com/service/business_plans/hour-business-plan-or-forecast-review?sb=t
 - 48-hour workflow build or repair: https://www.freelancer.com/service/zapier/hour-workflow-build-or-repair?sb=t
 - n8n workflow repair and handoff notes: https://www.upwork.com/services/product/development-it-an-n8n-workflow-repair-with-tested-handoff-notes-2057889259942910023
@@ -33,6 +34,7 @@ If you want to test fit before a larger project, I can start with a narrow paid 
 - $40-$99 Upwork spreadsheet starts: I clean one buyer-provided spreadsheet and return a usable file or KPI-ready report shape.
 - $150 Upwork n8n repair start: I diagnose or repair one scoped workflow path with tested handoff notes.
 - $150-$175 one-step repair: I fix one concrete issue such as a broken form handoff, spreadsheet formula/report problem, webhook/API mapping, README gap, or small website bug.
+- $250 48-hour landing page and contact form: I build one responsive page, one contact/intake form, a thank-you state, and handoff notes through Freelancer escrow.
 - $250-$300 first deliverable: I produce a usable first artifact such as a short business-plan section, model cleanup pass, workflow handoff map, dashboard-ready data cleanup, landing-page fix, or repo readiness pass.
 - $300 24-hour business plan or forecast review: I review one focused plan, pitch, SBA/lender, grant, or financial-model slice through Freelancer escrow.
 
