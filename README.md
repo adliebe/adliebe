@@ -21,7 +21,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 
 - Investor-ready business plans, financial forecasts, pitch narratives, and lender/investor packages.
 - Spreadsheet cleanup, KPI reporting, dashboard prep, CSV normalization, and recurring report workflows.
-- n8n, Zapier, Make, webhook, CRM, form, Airtable, Google Sheets, and lead-routing builds.
+- n8n, Zapier, Make, webhook, CRM, form, Airtable, Google Sheets, Drive, Calendar, team-alert, and lead-routing builds.
 - Python, JavaScript, API, backend, database, and integration repair for small teams.
 - Small business websites, landing pages, intake forms, MVP slices, and operational tools.
 - GitHub repo repair, CI fixes, dependency updates, technical docs, and product-readiness cleanup.
@@ -43,6 +43,8 @@ If you want to test fit before a larger project, I can start with a narrow paid 
 - $300 24-hour business plan or forecast review: I review one focused plan, pitch, SBA/lender, grant, or financial-model slice through Freelancer escrow.
 
 Starter slice details: https://adliebe.github.io/scoped-ops-proof/#starter-slices
+
+Form to dashboard proof: https://adliebe.github.io/scoped-ops-proof/tutorials/google-forms-drive-calendar-dashboard.html
 
 ## Premium Project Starts
 
