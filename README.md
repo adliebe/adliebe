@@ -5,7 +5,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 ## Paid Work Surfaces
 
 - Proof hub: https://adliebe.github.io/scoped-ops-proof/
-- Direct buyer-approved checkout links: https://adliebe.github.io/scoped-ops-proof/#payment-routing
+- Direct invoice or checkout is available after written scope approval; marketplace-originated work uses marketplace escrow.
 - 24-hour README or install docs cleanup: https://www.freelancer.com/service/technical_writing/hour-readme-or-install-docs-cleanup?sb=t
 - 24-hour GitHub issue or CI fix review: https://www.freelancer.com/service/github/hour-github-issue-or-ci-fix-review?sb=t
 - 24-hour spreadsheet cleanup and KPI report: https://www.freelancer.com/service/excel/hour-spreadsheet-cleanup-and-kpi-report?sb=t
