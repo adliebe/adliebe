@@ -35,6 +35,8 @@ Outlook quote proof: https://adliebe.github.io/scoped-ops-proof/tutorials/outloo
 
 Webhook to quote proof: https://adliebe.github.io/scoped-ops-proof/tutorials/monday-webhook-email-to-quote.html
 
+Fraud decision review proof: https://adliebe.github.io/scoped-ops-proof/fraud-decision-triage.html
+
 ## Smaller Paid Starts
 
 If you want to test fit before a larger project, I can start with a narrow paid slice:
