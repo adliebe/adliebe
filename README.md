@@ -28,6 +28,8 @@ If you want to test fit before a larger project, I can start with a narrow paid 
 
 - $75 small cleanup or writing slice: I clean one small file, structure one short document, or rewrite one resume/LinkedIn/founder-bio section with a handoff note.
 - $95 24-hour repair: I fix or diagnose one clean workflow, spreadsheet, report, form, data handoff, or business-plan/model slice through Freelancer escrow.
+- $40-$99 Upwork spreadsheet starts: I clean one buyer-provided spreadsheet and return a usable file or KPI-ready report shape.
+- $150 Upwork n8n repair start: I diagnose or repair one scoped workflow path with tested handoff notes.
 - $150-$175 one-step repair: I fix one concrete issue such as a broken form handoff, spreadsheet formula/report problem, webhook/API mapping, README gap, or small website bug.
 - $250-$300 first deliverable: I produce a usable first artifact such as a short business-plan section, model cleanup pass, workflow handoff map, dashboard-ready data cleanup, landing-page fix, or repo readiness pass.
 - $300 24-hour business plan or forecast review: I review one focused plan, pitch, SBA/lender, grant, or financial-model slice through Freelancer escrow.
@@ -40,8 +42,8 @@ These are package anchors, not a universal minimum:
 
 - Business plan and model review: $500+
 - Full business plan and financial model: $1,500-$3,500+
-- Spreadsheet/reporting cleanup: $300-$500+
-- Workflow repair or first systems build: $300-$1,500+
+- Spreadsheet/reporting cleanup: $40-$500+
+- Workflow repair or first systems build: $150-$1,500+
 - 48-hour workflow build or repair: $500
 - Website, form, MVP, API, or backend slice: $500-$3,500+
 
