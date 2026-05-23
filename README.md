@@ -29,6 +29,8 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 
 Form to dashboard proof: https://adliebe.github.io/scoped-ops-proof/tutorials/google-forms-drive-calendar-dashboard.html
 
+Outlook quote proof: https://adliebe.github.io/scoped-ops-proof/tutorials/outlook-product-inquiry-to-quote.html
+
 Webhook to quote proof: https://adliebe.github.io/scoped-ops-proof/tutorials/monday-webhook-email-to-quote.html
 
 ## Smaller Paid Starts
