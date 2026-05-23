@@ -6,6 +6,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 
 - Proof hub: https://adliebe.github.io/scoped-ops-proof/
 - 24-hour workflow or report repair: https://www.freelancer.com/service/excel_vba/hour-workflow-or-report-repair?sb=t
+- 24-hour business plan or forecast review: https://www.freelancer.com/service/business_plans/hour-business-plan-or-forecast-review?sb=t
 - n8n workflow repair and handoff notes: https://www.upwork.com/services/product/development-it-an-n8n-workflow-repair-with-tested-handoff-notes-2057889259942910023
 - Business plan and financial model: https://www.upwork.com/services/product/consulting-hr-an-investor-ready-business-plan-and-financial-model-with-forecasts-2057624369756503073
 - Spreadsheet cleanup and weekly KPI report: https://www.upwork.com/services/product/marketing-a-cleaned-lead-list-with-a-weekly-sales-report-2057587050076830753
@@ -28,8 +29,9 @@ If you want to test fit before a larger project, I can start with a narrow paid 
 - $95 24-hour repair: I fix or diagnose one clean workflow, spreadsheet, report, form, data handoff, or business-plan/model slice through Freelancer escrow.
 - $150-$175 one-step repair: I fix one concrete issue such as a broken form handoff, spreadsheet formula/report problem, webhook/API mapping, README gap, or small website bug.
 - $250-$300 first deliverable: I produce a usable first artifact such as a short business-plan section, model cleanup pass, workflow handoff map, dashboard-ready data cleanup, landing-page fix, or repo readiness pass.
+- $300 24-hour business plan or forecast review: I review one focused plan, pitch, SBA/lender, grant, or financial-model slice through Freelancer escrow.
 
-Starter slice details: https://adliebe.github.io/scoped-ops-proof/?v=115e5fd#starter-slices
+Starter slice details: https://adliebe.github.io/scoped-ops-proof/?v=0ab4f4f#starter-slices
 
 ## Premium Project Starts
 
