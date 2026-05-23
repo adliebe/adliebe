@@ -21,6 +21,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 
 - Investor-ready business plans, financial forecasts, pitch narratives, and lender/investor packages.
 - Spreadsheet cleanup, KPI reporting, dashboard prep, CSV normalization, and recurring report workflows.
+- PDF and document packets into spreadsheet-ready records, review queues, and handoff notes.
 - n8n, Zapier, Make, webhook, CRM, form, Airtable, Google Sheets, and lead-routing builds.
 - Python, JavaScript, API, backend, database, and integration repair for small teams.
 - Small business websites, landing pages, intake forms, MVP slices, and operational tools.
@@ -30,6 +31,8 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 Form to dashboard proof: https://adliebe.github.io/scoped-ops-proof/tutorials/google-forms-drive-calendar-dashboard.html
 
 GitHub issue and CI fix proof: https://adliebe.github.io/scoped-ops-proof/tutorials/github-ci-fix-review.html
+
+PDF to spreadsheet proof: https://adliebe.github.io/scoped-ops-proof/tutorials/pdf-to-spreadsheet-extraction.html
 
 Outlook quote proof: https://adliebe.github.io/scoped-ops-proof/tutorials/outlook-product-inquiry-to-quote.html
 
@@ -43,7 +46,7 @@ Fraud decision review proof: https://adliebe.github.io/scoped-ops-proof/fraud-de
 
 If you want to test fit before a larger project, I can start with a narrow paid slice:
 
-- $75 24-hour spreadsheet cleanup: I clean one CSV, Excel, Sheets, lead-list, order, invoice, or weekly KPI report file through Freelancer escrow.
+- $75 24-hour spreadsheet cleanup: I clean one CSV, Excel, Sheets, PDF table, lead-list, order, invoice, or weekly KPI report file through Freelancer escrow.
 - $15 README or install docs cleanup: I clean one README, install guide, API snippet, GitHub issue handoff, SOP, or technical note through Freelancer escrow.
 - $25 GitHub issue or CI review: I inspect one public or buyer-authorized repo issue, failing check, dependency blocker, install error, README gap, or tiny fix path through Freelancer escrow.
 - $95 form dashboard handoff: I fix one form, sheet, calendar, alert, dashboard, or Monday.com handoff path through Freelancer escrow.
