@@ -5,6 +5,7 @@ I build scoped business, finance, data, web, and workflow systems for buyers who
 ## Paid Work Surfaces
 
 - Proof hub: https://adliebe.github.io/scoped-ops-proof/
+- Direct buyer-approved checkout links: https://adliebe.github.io/scoped-ops-proof/#payment-routing
 - 24-hour workflow or report repair: https://www.freelancer.com/service/excel_vba/hour-workflow-or-report-repair?sb=t
 - 24-hour business plan or forecast review: https://www.freelancer.com/service/business_plans/hour-business-plan-or-forecast-review?sb=t
 - 48-hour workflow build or repair: https://www.freelancer.com/service/zapier/hour-workflow-build-or-repair?sb=t
